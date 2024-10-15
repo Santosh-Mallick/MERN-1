@@ -1,0 +1,10 @@
+# Node modules
+node_modules/
+
+# Environment variable files
+.env
+
+# Virtual environments (if applicable)
+env/
+venv/
+ENV/
